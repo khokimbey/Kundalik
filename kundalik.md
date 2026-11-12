@@ -16,3 +16,11 @@ Bugun Git buyruqlarini o‘rgandim.
 
 Fayllarni saqlashni mashq qildim.
 
+
+
+\## 3-kun
+
+Bugun commit nima ekanini o‘rgandim.
+
+O‘zgarishlarni Git tarixiga saqladim.
+
