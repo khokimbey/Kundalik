@@ -24,3 +24,11 @@ Bugun commit nima ekanini o‘rgandim.
 
 O‘zgarishlarni Git tarixiga saqladim.
 
+
+
+\## 4-kun
+
+Bugun git diff buyrug‘idan foydalandim.
+
+Fayllardagi o‘zgarishlarni ko‘rdim.
+
