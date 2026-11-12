@@ -10,7 +10,9 @@ Yangi repozitoriy yaratishni mashq qildim.
 
 
 
+\## 2-kun
 
+Bugun Git buyruqlarini o‘rgandim.
 
-
+Fayllarni saqlashni mashq qildim.
 
