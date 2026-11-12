@@ -32,3 +32,13 @@ Bugun git diff buyrug‘idan foydalandim.
 
 Fayllardagi o‘zgarishlarni ko‘rdim.
 
+
+
+\## 5-kun
+
+Bugun Git bo‘yicha bilimlarimni mustahkamladim.
+
+GitHub bilan ishlashga tayyorlandim.
+
+
+
