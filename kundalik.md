@@ -1,4 +1,4 @@
-\# Mening kundaligim
+\# Mening yangi kundaligim
 
 
 
@@ -39,6 +39,4 @@ Fayllardagi o‘zgarishlarni ko‘rdim.
 Bugun Git bo‘yicha bilimlarimni mustahkamladim.
 
 GitHub bilan ishlashga tayyorlandim.
-
-
 
