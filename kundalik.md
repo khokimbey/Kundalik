@@ -1,4 +1,6 @@
-\# Mening yangi kundaligim
+\# Mening sinov kundaligim
+
+
 
 
 
